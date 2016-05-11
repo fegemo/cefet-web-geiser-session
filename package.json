@@ -1,21 +1,20 @@
 {
   "name": "Geiser",
-  "version": "0.0.0",
-  "description": "Um cadastrador de jogos",
+  "version": "1.0.0",
+  "description": "Um identificador de computadores fritantes",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/app"
   },
   "keywords": [
-    "crud",
-    "express"
+    "steam",
+    "games"
   ],
   "author": "Flavio Coutinho",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.10.6",
-    "hbs": "^2.7.0",
-    "underscore": "^1.7.0"
+    "express": "^4.13.4",
+    "hbs": "^4.0.0",
+    "underscore": "^1.8.3"
   }
 }
