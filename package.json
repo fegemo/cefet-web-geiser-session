@@ -11,10 +11,14 @@
     "games"
   ],
   "author": "Flavio Coutinho",
+  "repository": "https://github.com/fegemo/cefet-web-geiser-session.git",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4",
-    "hbs": "^4.0.0",
+    "express": "^4.15.3",
+    "hbs": "^4.0.1",
     "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "8.1.x"
   }
 }
